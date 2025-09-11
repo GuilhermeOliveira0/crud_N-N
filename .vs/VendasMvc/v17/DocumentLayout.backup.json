@@ -1,62 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\",
+  "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\vendasmvc\\controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\projetos-fatec\\vendasmvc\\views\\vendas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|solutionrelative:views\\vendas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\projetos-fatec\\vendasmvc\\views\\vendas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|solutionrelative:views\\vendas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\projetos-fatec\\vendasmvc\\views\\vendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|solutionrelative:views\\vendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\projetos-fatec\\vendasmvc\\controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|solutionrelative:controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\vendasmvc\\viewmodels\\vendaformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\projetos-fatec\\vendasmvc\\viewmodels\\vendaformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|solutionrelative:viewmodels\\vendaformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\vendasmvc\\viewmodels\\vendaitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\projetos-fatec\\vendasmvc\\viewmodels\\vendaitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|solutionrelative:viewmodels\\vendaitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\vendasmvc\\vendasmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\projetos-fatec\\vendasmvc\\vendasmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|solutionrelative:vendasmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\vendasmvc\\controllers\\produtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\projetos-fatec\\vendasmvc\\controllers\\produtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|solutionrelative:controllers\\produtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\vendasmvc\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\projetos-fatec\\vendasmvc\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\vendasmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\projetos-fatec\\vendasmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\vendasmvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\projetos-fatec\\vendasmvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Migrations\\20250902164508_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250902164508_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\vendasmvc\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\projetos-fatec\\vendasmvc\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|solutionrelative:models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\vendasmvc\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\projetos-fatec\\vendasmvc\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\vendasmvc\\models\\vendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\projetos-fatec\\vendasmvc\\models\\vendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|solutionrelative:models\\vendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\vendasmvc\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\projetos-fatec\\vendasmvc\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\vendasmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\projetos-fatec\\vendasmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\projetos-fatec\\vendasmvc\\migrations\\20250902164508_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D66A709-2058-41AE-AD2B-5AA6AC851D0C}|VendasMvc.csproj|solutionrelative:migrations\\20250902164508_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,189 +78,215 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Views\\Vendas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vendas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Views\\Vendas\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Vendas\\Delete.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T18:15:20.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Views\\Vendas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vendas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Views\\Vendas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Vendas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T18:13:07.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Views\\Vendas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vendas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Views\\Vendas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Vendas\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T18:11:01.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "VendasController.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Controllers\\VendasController.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Controllers\\VendasController.cs",
               "RelativeDocumentMoniker": "Controllers\\VendasController.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Controllers\\VendasController.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Controllers\\VendasController.cs",
               "RelativeToolTip": "Controllers\\VendasController.cs",
-              "ViewState": "AgIAALcAAAAAAAAAAAAuwMwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAMwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T17:10:30.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "VendaFormVM.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\ViewModels\\VendaFormVM.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\ViewModels\\VendaFormVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\VendaFormVM.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\ViewModels\\VendaFormVM.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\ViewModels\\VendaFormVM.cs",
               "RelativeToolTip": "ViewModels\\VendaFormVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T17:08:56.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VendaItemVM.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\ViewModels\\VendaItemVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\VendaItemVM.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\ViewModels\\VendaItemVM.cs",
-              "RelativeToolTip": "ViewModels\\VendaItemVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T17:07:23.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProdutoesController.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Controllers\\ProdutoesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProdutoesController.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Controllers\\ProdutoesController.cs",
-              "RelativeToolTip": "Controllers\\ProdutoesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T17:05:58.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T17:08:56.137Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "Controllers\\ClientesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "VendaItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\ViewModels\\VendaItemVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\VendaItemVM.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\ViewModels\\VendaItemVM.cs",
+              "RelativeToolTip": "ViewModels\\VendaItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T17:04:48.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250902164508_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Migrations\\20250902164508_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250902164508_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Migrations\\20250902164508_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20250902164508_InitialCreate.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T16:45:08.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T17:07:23.925Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAswA8AAAA8AAAAAAAAAA==",
+              "Title": "ProdutoesController.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Controllers\\ProdutoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProdutoesController.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Controllers\\ProdutoesController.cs",
+              "RelativeToolTip": "Controllers\\ProdutoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T16:38:08.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T17:05:58.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "VendaProduto.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Models\\VendaProduto.cs",
-              "RelativeDocumentMoniker": "Models\\VendaProduto.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Models\\VendaProduto.cs",
-              "RelativeToolTip": "Models\\VendaProduto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T16:35:26.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T17:04:48.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Venda.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Models\\Venda.cs",
-              "RelativeDocumentMoniker": "Models\\Venda.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Models\\Venda.cs",
-              "RelativeToolTip": "Models\\Venda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "20250902164508_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Migrations\\20250902164508_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250902164508_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Migrations\\20250902164508_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250902164508_InitialCreate.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T16:33:54.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T16:45:08.534Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Models\\Produto.cs",
-              "RelativeToolTip": "Models\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswA8AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T16:31:36.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Models\\Cliente.cs",
-              "RelativeToolTip": "Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T16:29:08.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VendasMvc",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\VendasMvc.csproj",
-              "RelativeDocumentMoniker": "VendasMvc.csproj",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\VendasMvc.csproj",
-              "RelativeToolTip": "VendasMvc.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-02T16:26:22.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T16:15:50.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T16:38:08.962Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "VendaProduto.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Models\\VendaProduto.cs",
+              "RelativeDocumentMoniker": "Models\\VendaProduto.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Models\\VendaProduto.cs",
+              "RelativeToolTip": "Models\\VendaProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:35:26.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Models\\Venda.cs",
+              "RelativeDocumentMoniker": "Models\\Venda.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Models\\Venda.cs",
+              "RelativeToolTip": "Models\\Venda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:33:54.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:31:36.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:29:08.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VendasMvc.csproj",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\VendasMvc.csproj",
+              "RelativeDocumentMoniker": "VendasMvc.csproj",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\VendasMvc.csproj",
+              "RelativeToolTip": "VendasMvc.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-02T16:26:22.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:15:50.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\VendasMvc\\appsettings.json",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Projetos-Fatec\\VendasMvc\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-02T16:13:03.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T16:13:03.062Z"
             }
           ]
         }

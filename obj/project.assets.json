@@ -6445,11 +6445,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\VendasMvc\\VendasMvc.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Projetos-Fatec\\VendasMvc\\VendasMvc.csproj",
       "projectName": "VendasMvc",
-      "projectPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\VendasMvc\\VendasMvc.csproj",
+      "projectPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Projetos-Fatec\\VendasMvc\\VendasMvc.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\VendasMvc\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Projetos-Fatec\\VendasMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

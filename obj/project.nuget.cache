@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cvgDIw35e/Q=",
+  "dgSpecHash": "PEGy+9SWUnE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\VendasMvc\\VendasMvc.csproj",
+  "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Projetos-Fatec\\VendasMvc\\VendasMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
